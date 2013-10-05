@@ -14,6 +14,10 @@ def bitLen(int_type):
          length += 1
      return(length)
 
+def testBit(int_type, offset):
+   mask = 1 << offset
+   return(int_type & mask)
+
 def modExpo(b, exp, mod):
    
    multiplier   = b
