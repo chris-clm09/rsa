@@ -1,0 +1,7 @@
+clm:x:1000:1040:RANDUSER:dir:shell
+johnDog:x:1001:1040:RANDUSER:dir:shell
+booya:x:1002:1040:RANDUSER:dir:shell
+mike:x:1003:1040:RANDUSER:dir:shell
+nephi:x:1004:1040:RANDUSER:dir:shell
+moroni:x:1005:1040:RANDUSER:dir:shell
+newworld:x:1006:1040:RANDUSER:dir:shell
